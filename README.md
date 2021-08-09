@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @wilborm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @wilborr20
+- 🇵🇪 Peru
+- 👨‍🎓 Systems Engineer
+- 💞️ Business Intelligence is my passion
+- 👨🏻‍💻 iOS & Web Developer
+- 🌱 I’m currently learning DevOps
+- 📫 Follow me on [linkedin](https://www.linkedin.com/in/wilbor-miranda/).
 
 <!---
 wilborm/wilborm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
